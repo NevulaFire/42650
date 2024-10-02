@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1727840143 source:c:\users\rubi\documents\universidad\calendario 2024b\estructura de datos i\actividad 6-busquedas\busquedas\main.cpp
+	<iostream>
+	<string>
+	<stdexcept>
+	<algorithm>
+
